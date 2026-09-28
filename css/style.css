@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+    padding: 0;
+
+    text-decoration: none;
+    list-style: none;
+}
+
+  table {
+    border-collapse: collapse;
+    width: 50%;
+    font-family: sans-serif;
+  }
+  
+  th, td {
+    border: 1px solid black;
+    padding: 8px;
+    text-align: center;
+  }
+
